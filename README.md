@@ -3,8 +3,10 @@ I'm **Petr** - I'm a freelance developer, IT Business Partner by profession, own
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,cs,cpp,dotnet,bots,java,mysql,postgres,sqlite,powershell,py,raspberrypi,visualstudio" alt="My Skills"/>
 </p>
+<p align="center">
+    <img src="https://dcbadge.vercel.app/api/shield/235467495580893184?style=flat&theme=clean-inverted" alt="My Status"/>
+</p>
 
-![](https://dcbadge.vercel.app/api/shield/235467495580893184?style=flat&theme=clean-inverted)
 <!--
 **Koty97/Koty97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
