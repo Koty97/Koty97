@@ -1,5 +1,5 @@
 # Hello there 👋 (general Kenobi)
-I'm **Petr** - I'm a freelance developer, IT Business Partner by profession, owner of semi-official Discord server for PEF MENDELU and computer science student at MENDELU. I'm open to new technologies and I love to try new languages and approaches to software development. I work on a lot of small projects for my personal needs. I am currently learning how generative AI works using ComfyUI.
+I'm **Petr** - I'm a freelance developer currently cooperating with [DRIE](https://drie.cz/), IT Business Partner by profession, owner of semi-official Discord server for PEF MENDELU and computer science student at MENDELU. I'm open to new technologies and I love to try new languages and approaches to software development. I work on a lot of small projects for my personal needs. I am currently learning how generative AI works using ComfyUI.
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,cs,cpp,dotnet,bots,java,mysql,postgres,sqlite,powershell,py,raspberrypi,visualstudio" alt="My Skills"/>
 </p>
